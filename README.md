@@ -21,3 +21,6 @@ PASSWORD=password
 Drop it into `/etc/cron.daily` or use a schedule like `0 7 * * 1-5` if you only want to run it on weekday mornings.
 
 A handful of temporary files are created in the process, they contain session cookies and parsed HTML content. They're safe to clean up afterwards.
+
+# License
+[EPL 2.0](https://www.eclipse.org/legal/epl-2.0/)
